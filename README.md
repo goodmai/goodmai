@@ -117,19 +117,14 @@ Obsessed with **zero-trust architecture**, mathematical correctness, automated f
 ---
 
 <!-- ============================================================= -->
-<!--  FEATURED PROJECTS                                            -->
+<!--  FEATURED PROJECT                                             -->
 <!-- ============================================================= -->
 
-## 🚀 Featured Projects & Repositories
+## 🚀 Featured Project
 
-| Project | Description | Tech |
+| Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| [**MCPJungle**](https://github.com/goodmai/MCPJungle) | Universal registry & connection gateway for Model Context Protocol (MCP) servers | `TypeScript` `MCP` |
-| [**Cancore Cross-Chain Engine**](https://github.com/goodmai) | Regulated cross-chain liquidity protocol, DvP atomic settlement & HTLC bridge | `TypeScript` `Daml` `Rust` |
-| [**TonSigner SDK**](https://github.com/goodmai) | BIP-39 mnemonic derivation & Wallet V4 R2 address engine for TON Testnet/Mainnet | `TypeScript` `Ed25519` |
-| [**RoseLoot**](https://github.com/goodmai/RoseLoot) | Interactive Web3 loot & gaming economy platform | `TypeScript` `React` |
-| [**Telegram QA Framework**](https://github.com/goodmai) | Live HTTP & webhook integration testing harness for enterprise Telegram bots | `TypeScript` `Vitest` |
-| [**op-reth**](https://github.com/goodmai/op-reth) | High-performance Optimism execution client built in Rust | `Rust` `EVM` |
+| [**flactotext**](https://github.com/goodmai/flactotext) | AI-powered meeting intelligence platform: voice recording, high-fidelity lossless FLAC transcription, semantic search, and automated executive summaries. | `TypeScript` `Python` `Whisper` `FastAPI` `LLM` `MCP` |
 
 ---
 
