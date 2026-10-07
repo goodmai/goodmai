@@ -3,7 +3,7 @@
 <!-- ============================================================= -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30&height=220&section=header&text=Aleksei%20Boklag&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Lead%20Blockchain%20Architect%20%7C%20SDET%20%7C%20DeFi%20%26%20Systems%20Engineer&descFontSize=20&descAlignY=62&descAlign=50" alt="Aleksei Boklag Banner" width="100%" />
+  <img src="assets/banner.svg" alt="Aleksei Boklag Banner" width="100%" />
 </div>
 
 <h1 align="center">Hi, I'm Aleksei 👋</h1>
@@ -117,6 +117,20 @@ Obsessed with **zero-trust architecture**, mathematical correctness, automated f
 ---
 
 <!-- ============================================================= -->
+<!--  OPEN-SOURCE CONTRIBUTIONS                                    -->
+<!-- ============================================================= -->
+
+## 🤝 Open-Source Projects I Contribute To
+
+| Project | What I do there | Highlights |
+| :--- | :--- | :--- |
+| [**OpenVINO GenAI**](https://github.com/openvinotoolkit/openvino.genai) | Tool-call parsing and streaming fixes for Intel GPU / NPU inference | [#4549](https://github.com/openvinotoolkit/openvino.genai/pull/4549) ✅ merged · [#4547](https://github.com/openvinotoolkit/openvino.genai/pull/4547) · [#4544](https://github.com/openvinotoolkit/openvino.genai/pull/4544) in review |
+| [**Unsloth**](https://github.com/unslothai/unsloth) | OpenVINO export and Intel Arc chat in Unsloth Studio | [#11907](https://github.com/unslothai/unsloth/pull/11907) ✅ merged · [#12266](https://github.com/unslothai/unsloth/pull/12266) ✅ merged · [#12168](https://github.com/unslothai/unsloth/pull/12168) in review |
+| [**MLX**](https://github.com/ml-explore/mlx) | Author of [**basalt**](https://github.com/goodmai/basalt): a pure-Swift local LLM server on MLX / Metal with OpenAI, Anthropic and MCP APIs | `Swift` `MLX` `Apple Silicon` `Homebrew` |
+
+---
+
+<!-- ============================================================= -->
 <!--  FEATURED PROJECT                                             -->
 <!-- ============================================================= -->
 
@@ -137,6 +151,10 @@ Obsessed with **zero-trust architecture**, mathematical correctness, automated f
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=goodmai&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=00f0ff&text_color=c9d1d9" alt="goodmai's GitHub Stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goodmai&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="assets/radar.svg" alt="Contribution radar: commits, pull requests, code review, issues, AI/ML open source" width="520" />
 </div>
 
 <div align="center">

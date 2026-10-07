@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="240" viewBox="0 0 1280 240" role="img" aria-label="Aleksei Boklag Banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.55" stop-color="#1a1040"/>
+      <stop offset="1" stop-color="#2b0f5c"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00f0ff"/>
+      <stop offset="1" stop-color="#7928ca"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#00f0ff" stroke-opacity="0.07"/>
+    </pattern>
+    <radialGradient id="glow" cx="0.85" cy="0.2" r="0.6">
+      <stop offset="0" stop-color="#7928ca" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#7928ca" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1280" height="240" fill="url(#bg)"/>
+  <rect width="1280" height="240" fill="url(#grid)"/>
+  <rect width="1280" height="240" fill="url(#glow)"/>
+  <rect x="0" y="236" width="1280" height="4" fill="url(#accent)"/>
+  <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" text-anchor="middle">
+    <text x="640" y="108" font-size="58" font-weight="700" fill="#ffffff">Aleksei Boklag</text>
+    <text x="640" y="156" font-size="21" fill="#00f0ff">Lead Blockchain Architect  |  SDET  |  DeFi &amp; Systems Engineer</text>
+    <text x="640" y="192" font-size="15" fill="#c9d1d9" fill-opacity="0.75">Canton · EVM · OpenVINO · Unsloth · Autonomous AI agents</text>
+  </g>
+</svg>
