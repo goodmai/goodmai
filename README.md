@@ -9,7 +9,7 @@
 <h1 align="center">Hi, I'm Aleksei 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=00F0FF&center=true&vCenter=true&width=780&height=45&lines=Lead+Blockchain+%26+SDET+Engineer;DeFi+Architect+%E2%80%94+Canton%2C+EVM%2C+TON+%26+Solana;Autonomous+AI+Agents+%26+Multi-Model+Swarms+Builder;High-Performance+Distributed+Systems+%26+Trading+Engines;Self-Custody%2C+Passkey+%26+WebAuthn+Security+Specialist" alt="What I do" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=00F0FF&center=true&vCenter=true&width=780&height=45&lines=Lead+Blockchain+and+AI+%26+SDET+Engineer;DeFi+Architect+%E2%80%94+Canton%2C+EVM%2C+TON+%26+Solana;Autonomous+AI+Agents+%26+Multi-Model+Swarms+Builder;High-Performance+Distributed+Systems+%26+Trading+Engines;Self-Custody%2C+Passkey+%26+WebAuthn+Security+Specialist" alt="What I do" />
 </div>
 
 <div align="center">
@@ -37,7 +37,7 @@
 
 ## 🧭 About Me
 
-Senior **Blockchain Architect**, **Distributed Systems Engineer**, and **Lead SDET** specializing in regulated DeFi, atomic cross-chain settlement (HTLC & DvP), self-custody cryptography, and autonomous AI agents.
+Senior **Blockchain Architect**, **Distributed Systems Engineer**, and **Lead SDET** specializing in regulated DeFi, atomic cross-chain settlement (HTLC & DvP), intents and CCIP bridges, self-custody cryptography, and autonomous AI agents.
 
 Obsessed with **zero-trust architecture**, mathematical correctness, automated formal verification, and engineering high-throughput infrastructure that operates flawlessly under financial-grade load.
 
